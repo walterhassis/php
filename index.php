@@ -1,5 +1,5 @@
 <?php
 
-	echo "Testando Git"
+	echo "Teste atualizando pasta"
 
 ?>
